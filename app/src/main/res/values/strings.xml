@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">PDMA</string>
+
+
+    <string name="btn_report">Corona Virus Report</string>
+    <string name="btn_notification">Notification</string>
+    <string name="btn_call">Call 1700</string>
+    <string name="btn_weather">Weather Report</string>
+    <string name="btn_feedback">Feedback</string>
+    <string name="btn_shareUs">Share Us</string>
+
+    <string name="btn_special_daily_report">Special/Daily Report</string>
+    <string name="btn_special_daily_flood">Daily Flood Reports</string>
+    <string name="btn_special_river_report">River Flow Reports</string>
+    <string name="btn_special_pmd_alert">PMD Alert</string>
+    <string name="btn_special_rainfall">Rainfall</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_title">PDMA</string>
+    <string name="nav_header_subtitle">abc@pdma.govt.pk</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_title_alert">Alert</string>
+    <string name="slide_desc_alert">Quick to notice any unusual and potentially dangerous or difficult circumstances vigilant!</string>
+
+    <string name="slide_title_earthquake">Earth Quake</string>
+    <string name="slide_desc_earthquake">A sudden violent shaking of the ground, typically causing great destruction, as a result of movements within the earths crust or volcanic action!</string>
+
+    <string name="slide_title_flood">Flood</string>
+    <string name="slide_desc_flood">An overflow of a large amount of water beyond its normal limits, especially over what is normally dry land.!</string>
+
+    <string name="slide_title_weather">Weather</string>
+    <string name="slide_desc_weather">Wear away or change the appearance or texture of (something) by long exposure to the atmosphere.!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_home">Home</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

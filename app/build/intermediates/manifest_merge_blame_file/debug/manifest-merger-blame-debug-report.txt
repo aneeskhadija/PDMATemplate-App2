@@ -1,0 +1,64 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.anees.pdma"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml:5:5-27:19
+12        android:allowBackup="true"
+12-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.3.0] C:\Users\MuhammadA\.gradle\caches\transforms-2\files-2.1\429fb715fcc7711d4ab133e350b6f531\core-1.3.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml:11:9-40
+21        <activity android:name="com.anees.pdma.Activities.Login" />
+21-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml:12:9-77
+21-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml:12:19-65
+22        <activity android:name="com.anees.pdma.Activities.Weather" />
+22-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml:13:9-70
+22-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml:13:19-67
+23        <activity
+23-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml:14:9-17:59
+24            android:name="com.anees.pdma.Activities.Home"
+24-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml:15:13-58
+25            android:label="@string/title_activity_home"
+25-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml:16:13-56
+26            android:theme="@style/AppTheme.NoActionBar" />
+26-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml:17:13-56
+27        <activity
+27-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml:18:9-26:20
+28            android:name="com.anees.pdma.MainActivity"
+28-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml:19:13-55
+29            android:theme="@style/AppTheme.NoActionBar" >
+29-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml:20:13-56
+30            <intent-filter>
+30-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml:21:13-25:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml:22:17-69
+31-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml:22:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml:24:17-77
+33-->D:\IRC\PDMA_2nd\Source code\PDMA\app\src\main\AndroidManifest.xml:24:27-74
+34            </intent-filter>
+35        </activity>
+36    </application>
+37
+38</manifest>
